@@ -1,6 +1,12 @@
 # App02-BMI-Calculator-
 ![image](https://github.com/Phil69691/App02-BMI-Calculator-/assets/114498774/e24aeeca-0c57-4066-91fe-1aaa575d1896)
+
 This is the sceanshot of the app working and putting in the kg and the height and converts it to bmi using the 
+
+![image](https://github.com/Phil69691/App02-BMI-Calculator-/assets/114498774/92cd6a65-1b91-45a1-8bf9-647bf9909f76)
+
+This image shows that the code will crash if you dont use anything that isnt numbers as the inputs for the kg or height.
+
 
 WHO Weight Status	BMI kg/m2
 Underweight	< 18.50
